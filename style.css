@@ -1,0 +1,63 @@
+main{
+  background-color:rgba(255, 255, 255, 0.534);
+  width: 50%;
+  margin: auto;
+}
+
+body{
+  background-image: url('/images/project4/spider.jpg');
+  background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  background-color: rgba(249, 245, 249, 0.699);
+  color: #4B005D;
+  text-indent: 10%;
+  width:90%;
+  margin: auto;
+  text-align: center;
+  font-family: Lucida Handwriting, Brush Script MT, Cursive;
+}
+
+h1{
+  background-color: rgba(230, 247, 228, 0.603);
+  color: #00505D;
+  width: 30%;
+  margin: auto;
+  text-indent: 10%;
+  text-align: center;
+  font-family: Lucida Console, Monaco, Monospace;
+}
+
+h2{
+  background-color: rgba(228, 247, 246, 0.637);
+  color: #00075D;
+  width: 30%;
+  margin: auto;
+  text-indent: 10%;
+  text-align: center;
+  font-family: Brush Script M7, Ludida Handwriting, Cursive;
+}
+
+h3{
+  background-color: rgba(243, 228, 247, 0.623);
+  color: #4F005D;
+  width: 30%;
+  margin: auto;
+  text-indent: 10%;
+  text-align: center;
+  font-family: Papyrus, Copperplate, Fantasy;
+}
+
+.yee{
+  color: #005F52;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #D8F1FF;
+}

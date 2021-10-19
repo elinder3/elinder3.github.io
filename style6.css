@@ -1,0 +1,63 @@
+#borderimg {
+  color:white;
+  background-color: rgba(0, 0, 0, 0.527);
+  width: 800px;
+}
+
+body {
+  background-image: url('/images/project6/wall.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.yuh {
+  height: 300px;
+}
+
+.nah {
+  height: 45px;
+}
+
+#wrapper {
+  width:60%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-image: url('/images/project6/icon.png');
+}
+
+.border {
+  border: 10px solid transparent;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-image: url(/images/project6/wa.gif) 50 stretch;
+  width: 300px;
+  margin: auto;
+  box-align: center;
+}
+
+a:link, a:visited {
+  background-color: rgba(93, 170, 194, 0.644);
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover{
+  background-color: rgba(255, 255, 255, 0.637);
+  color: rgba(61, 122, 141, 0.644);
+}
+
+a:active {
+  background-color: #FFFFFF;
+  color: rgba(62, 128, 148, 0.644);
+}

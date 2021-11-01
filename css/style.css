@@ -28,3 +28,10 @@ a:active {
   background-color: rgba(96, 176, 201, 0.692);
   color: rgba(62, 128, 148, 0.644);
 }
+
+div {
+  width: 50%;
+  position: center;
+  margin: auto;
+  text-align: left;
+}

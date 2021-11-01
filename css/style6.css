@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url('/images/project6/wall.jpg');
+  background-image: url('/images/pro6/wall.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,7 +28,7 @@ body {
 }
 
 ul {
-  list-style-image: url('/images/project6/icon.png');
+  list-style-image: url('/images/pro6/icon.png');
 }
 
 .border {
@@ -36,7 +36,7 @@ ul {
   padding-top: 15px;
   padding-left: 15px;
   padding-right: 15px;
-  border-image: url(/images/project6/wa.gif) 50 stretch;
+  border-image: url(/images/pro6/wa.gif) 50 stretch;
   width: 300px;
   margin: auto;
   box-align: center;
